@@ -19,7 +19,9 @@ To understand the Iris dataset, explore its structure, and create visualizations
 - **Task1_Iris.ipynb** – Jupyter Notebook for Task 1
 
 ---
+More tasks will be added as I complete them.
 
+---
 
 ## ✅ Task 2: Credit Risk Prediction
 
@@ -36,5 +38,23 @@ Predict whether a loan applicant is likely to default on a loan.
 ### Files
 - **Task2_Credit_Risk.ipynb** – Jupyter Notebook for Task 2
 
+---
 
-More tasks will be added as I complete them.
+## ✅ Task 3: Customer Churn Prediction
+
+### Objective
+Predict which bank customers are likely to leave the bank (churn).
+
+### What I Did
+- Loaded the Churn Modelling dataset and handled missing values
+- Encoded categorical features: Geography and Gender
+- Performed exploratory analysis
+- Trained a Random Forest Classifier
+- Evaluated the model using accuracy, confusion matrix, and feature importance
+
+### Files
+- **Task3_Customer_Churn.ipynb** – Jupyter Notebook for Task 3
+
+
+
+
